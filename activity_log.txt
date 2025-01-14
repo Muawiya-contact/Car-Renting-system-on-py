@@ -1,0 +1,9 @@
+[26/12/2024 21:19:11] Search: Registration QRS-258 is rented.
+[26/12/2024 21:19:40] Search: Registration YZA-135 is available.
+[26/12/2024 21:19:58] Search: Customer Khan found 2 records.
+[26/12/2024 21:25:17] Viewed customer list.
+[26/12/2024 21:25:33] Viewed customer list.
+[26/12/2024 21:28:08] Viewed list of available vehicles.
+[26/12/2024 21:34:06] Added new vehicle: QRS-258.
+[26/12/2024 21:34:27] Viewed customer list.
+[26/12/2024 21:34:36] Searched customer: 0. Found 8 result(s).
