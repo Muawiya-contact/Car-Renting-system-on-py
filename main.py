@@ -88,7 +88,7 @@ def rent_vehicle():
         print("❌ Sorry, you must be at least 18 years old to rent a vehicle.")
         return
 
-    f_name = get_valid_name_input("👤 Please enter your first name: ")
+    f_name = get_valid_name_input("👤 Please enter your first name: ") # Input name from user
     l_name = get_valid_name_input("👤 Please enter your last name: ")
     email = get_valid_email_input("📧 Please enter your email: ")
 
