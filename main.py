@@ -39,7 +39,7 @@ def get_valid_date_input(prompt):
         age = calculate_age(date_input)
         if age is not None:
             return date_input, age
-        print("❌ Oops! Invalid date format. Please use DD/MM/YYYY (e.g., 11/03/2006).")
+        print(" Oops! Invalid date format. Please use DD/MM/YYYY (e.g., 11/03/2006).")
 
 def get_valid_name_input(prompt):
     """Continuously prompts the user to enter a valid name (only letters)."""
