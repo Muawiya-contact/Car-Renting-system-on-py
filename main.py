@@ -2,7 +2,7 @@ import datetime
 import os
 import re
 
-# Default pin code stored as a variable
+
 PIN_CODE = "1234"
 
 def file_read(filename):
